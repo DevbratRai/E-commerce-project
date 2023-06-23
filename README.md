@@ -28,7 +28,7 @@ Our E-commerce website is a modern and user-friendly online platform designed to
 ## Installation
 To run the E-commerce website locally on your machine, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/your-repository-url.git
+   `git clone https://github.com/your-repository-url.git`
 
 
 
