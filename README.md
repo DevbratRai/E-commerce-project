@@ -23,4 +23,6 @@ Our E-commerce website is a modern and user-friendly online platform designed to
 * ### Order Placement:
    Complete the purchase process with a secure and streamlined checkout flow.
 * ### Responsive Design:
-  Enjoy a consistent and optimized experience across devices of different sizes.        
+  Enjoy a consistent and optimized experience across devices of different sizes.
+
+        
