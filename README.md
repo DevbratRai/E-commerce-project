@@ -35,6 +35,7 @@ To run the E-commerce website locally on your machine, follow these steps:
   `npm install`
 * ### Start the development server:
   `npm start`
+* Open your web browser and visit #### http://localhost:3000 #### to access the website.    
 
   
 
