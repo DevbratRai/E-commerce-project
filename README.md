@@ -27,8 +27,16 @@ Our E-commerce website is a modern and user-friendly online platform designed to
 
 ## Installation
 To run the E-commerce website locally on your machine, follow these steps:
-1. Clone the repository:
+* ### Clone the repository:
    `git clone https://github.com/your-repository-url.git`
+* ### Navigate to the project directory:
+   `cd e-comm-app`
+* ### Install the dependencies:
+  `npm install`
+* ### Start the development server:
+  `npm start`
+
+  
 
 
 
