@@ -50,7 +50,7 @@ The E-commerce website is built using the following technologies and libraries:
   Devbrat Rai
 
 ## Support
-* If you are having issues, please let me know. I have a mailing list located at:raidb8052@gmail.com
+* If you are having issues, please let me know. I have a mailing list located at: raidb8052@gmail.com
   
 
 
