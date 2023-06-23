@@ -6,9 +6,8 @@ This readme file provides an overview of our E-commerce website, which is built 
 * Features
 * Installation
 * Usage
-* Folder Structure
 * Technologies Used
-* Contributing
+* Contributors
 
 ## Introduction 
 Our E-commerce website is a modern and user-friendly online platform designed to facilitate the buying and selling of products. It utilizes the power of React.js and Material-UI to deliver an engaging and intuitive user experience. The website incorporates various features that enhance product discovery, browsing, and purchasing, making it an ideal choice for businesses looking to establish their online presence.
@@ -48,7 +47,10 @@ The E-commerce website is built using the following technologies and libraries:
  * CSS: Stylesheet language used for styling the web pages.
 
 ## Contributors
-  @Devbrat Rai
+  Devbrat Rai
+
+## Support
+* If you are having issues, please let me know. I have a mailing list located at:raidb8052@gmail.com
   
 
 
