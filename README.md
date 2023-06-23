@@ -35,7 +35,22 @@ To run the E-commerce website locally on your machine, follow these steps:
   `npm install`
 * ### Start the development server:
   `npm start`
-* Open your web browser and visit #### http://localhost:3000 #### to access the website.    
+* Open your web browser and visit http://localhost:3000 to access the website.
+
+## Usage
+Upon accessing the website, you can start exploring the various features and functionalities offered. Feel free to browse the product catalog, add items to your cart, and complete the purchase process. You can also register an account to access additional features, such as order history.
+
+## Technologies Used
+The E-commerce website is built using the following technologies and libraries:
+ * React.js: A JavaScript library for building user interfaces.
+ * Material-UI: A popular React UI framework that provides pre-designed components and styling.
+ * HTML: Markup language used for structuring the web pages.
+ * CSS: Stylesheet language used for styling the web pages.
+
+## Contributors
+  @Devbrat Rai
+  
+
 
   
 
